@@ -77,3 +77,11 @@ table {
   caption {
     padding: 10px;
   }
+
+  /* Code starts here */
+
+  body{
+    margin:0;
+    display: block;
+    
+  }
