@@ -107,6 +107,21 @@ h1, h2, h3, h4, h5, h6 {
   border: #fff 1px solid;
   height: 100vh;
   width: 290px;
+  flex-direction: column;
+}
+
+.title-header{
+  display: flex;
+  height: 235px;
+  background-color: lightblue;
+  width: 100%;
+}
+
+.bottom-section{
+  display: flex;
+  flex: 1;
+  background-color: lightpink;
+  width: 100%;
 }
 
 .right-main {
