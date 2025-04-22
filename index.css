@@ -115,6 +115,7 @@ h1, h2, h3, h4, h5, h6 {
   height: 235px;
   background-color: lightblue;
   width: 100%;
+  justify-content: center;
 }
 
 .bottom-section{
@@ -122,6 +123,7 @@ h1, h2, h3, h4, h5, h6 {
   flex: 1;
   background-color: lightpink;
   width: 100%;
+  justify-content: center;
 }
 
 .right-main {
