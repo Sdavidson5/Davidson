@@ -136,7 +136,19 @@ h1, h2, h3, h4, h5, h6 {
   align-items: center;
   border: #fff 1px solid;
   height: 100vh;
-  
+  flex-direction: row;
+}
+
+.right-header{
+  display: flex;
+  height:357px;
+  width:1010px;
+  background-color: lightgoldenrodyellow;
+}
+
+.right-footer{
+  display: flex;
+  background-color: lightsalmon;
 }
 
 .header {
