@@ -139,16 +139,28 @@ h1, h2, h3, h4, h5, h6 {
   flex-direction: column;
 }
 
-.right-header{
+.right-header {
   display: flex;
-  height:357px;
-  width:1010px;
-  background-color: lightgoldenrodyellow;
+  height: 35%;
+  width:100%;
+  background-color: lightgray;
+  justify-content: center;
+  align-items: center;
 }
 
-.right-footer{
+.right-header-pic {
+  display: flex;
+  justify-content: center;
+  height:90%;
+  width:1010px;
+  background-color: lightblue;
+}
+
+.right-footer {
   display: flex;
   background-color: lightsalmon;
+  height: 65%;
+  width:100%
 }
 
 .header {
