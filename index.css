@@ -158,9 +158,20 @@ h1, h2, h3, h4, h5, h6 {
 
 .right-footer {
   display: flex;
+  justify-content: center;
+  align-items: center;
   background-color: lightsalmon;
   height: 65%;
   width:100%
+}
+
+.right-footer-div{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 75%;
+  width: 75%;
+  background-color: lightslategray
 }
 
 .header {
